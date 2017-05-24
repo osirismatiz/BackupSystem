@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<x0:configuration xmlns:x0="http://www.backupsystem.com">
+    <pcSettings shutdown="true" />
+    <emailSettings sendMail="true">
+        <from>string</from>
+        <to>string</to>
+        <cc>string</cc>
+        <subject>string</subject>
+        <smtpSettings authentication="true">
+            <smtpServer>string</smtpServer>
+            <smptPort>string</smptPort>
+            <smtpUser>string</smtpUser>
+            <smtpPassword>string</smtpPassword>
+        </smtpSettings>
+    </emailSettings>
+    <appSettings>
+        <targetFolders>
+            <targetFolder>C:\tmp\target</targetFolder>
+            <targetFolder>\\C-OMATIZ1\_Shared\NetTarget</targetFolder>
+        </targetFolders>
+        <sourceFolders>
+            <sourceFolder>C:\tmp\sources\New folder 1</sourceFolder>
+            <sourceFolder>C:\tmp\sources\New folder 2</sourceFolder>
+            <sourceFolder>C:\tmp\sources\New folder 3</sourceFolder>
+            <sourceFolder>C:\tmp\sources\New folder 4</sourceFolder>
+            <sourceFolder>C:\tmp\sources\New folder 5</sourceFolder>
+        </sourceFolders>
+    </appSettings>
+</x0:configuration>

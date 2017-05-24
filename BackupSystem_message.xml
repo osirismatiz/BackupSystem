@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<x0:resourceMessages xmlns:x0="http://www.backupsystem.com">
+    <resourceMessage>
+        <message code="001">Se comprimio correctamente la carpeta</message>
+        <message code="002">Se realizo la copia del comprimido correctamente</message>
+        <message code="003">Se realizo la copia de seguridad con exito.</message>
+        <!-- error messages-->
+        <message code="101">No existe la carpeta de origen</message>
+        <message code="102">La carpeta de origen esta vacia</message>
+        <message code="103">No se pudo comprimir la carpeta de origen</message>
+        <message code="104">No se encontro el archivo comprimido</message>
+        <message code="105">No existe la carpeta de destino</message>
+        <message code="106">No se pudo copiar el comprimido a la carpeta destino</message>
+        <message code="107">No tiene permiso en la carpeta de destino</message>	
+        <message code="108">No coincide el tamaño del archivo copiado</message>
+		<message code="109">No se pudo eliminar el comprimido temporal local</message>
+        <message code="110">No se pudo enviar el correo</message>
+        <message code="111">No se pudo ejecutar el comando de apagado</message>
+        <message code="112">Hubo errores durante la copia de seguridad.</message>
+    </resourceMessage>
+</x0:resourceMessages>
