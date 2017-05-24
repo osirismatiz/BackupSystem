@@ -1,0 +1,524 @@
+2017-05-23 13:10:44 ----------------------------------- Inicio del proceso -----------------------------------
+2017-05-23 13:10:46 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 1
+2017-05-23 13:10:46 No existe la carpeta de destino C:\tmp\target
+2017-05-23 13:10:46 Se creo correctamente la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-23
+2017-05-23 13:11:24 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-23_New folder 1.zip
+2017-05-23 13:11:48 La carpeta de origen esta vacia C:\tmp\sources\New folder 2
+2017-05-23 13:11:55 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 3
+2017-05-23 13:11:55 No existe la carpeta de destino C:\tmp\target
+2017-05-23 13:11:55 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-23
+2017-05-23 13:11:57 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-23_New folder 3.zip
+2017-05-23 13:13:03 ----------------------------------- Inicio del proceso -----------------------------------
+2017-05-23 13:13:05 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 1
+2017-05-23 13:13:05 No existe la carpeta de destino C:\tmp\target
+2017-05-23 13:13:05 Se creo correctamente la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-23
+2017-05-23 13:13:07 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-23_New folder 1.zip
+2017-05-23 13:13:08 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-23_New folder 1.zip
+2017-05-23 13:13:08 La carpeta de origen esta vacia C:\tmp\sources\New folder 2
+2017-05-23 13:13:10 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 3
+2017-05-23 13:13:10 No existe la carpeta de destino C:\tmp\target
+2017-05-23 13:13:10 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-23
+2017-05-23 13:13:11 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-23_New folder 3.zip
+2017-05-23 13:13:12 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-23_New folder 3.zip
+2017-05-23 13:13:12 La carpeta de origen esta vacia C:\tmp\sources\New folder 4
+2017-05-23 13:13:14 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 5
+2017-05-23 13:13:14 No existe la carpeta de destino C:\tmp\target
+2017-05-23 13:13:14 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-23
+2017-05-23 13:13:15 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-23_New folder 5.zip
+2017-05-23 13:13:16 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-23_New folder 5.zip
+2017-05-23 13:13:16 Hubo errores durante la copia de seguridad.
+2017-05-23 13:13:16 ----------------------------------- Fin del proceso -----------------------------------
+2017-05-23 13:13:29 ----------------------------------- Inicio del proceso -----------------------------------
+2017-05-23 13:13:31 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 1
+2017-05-23 13:13:31 No existe la carpeta de destino C:\tmp\target
+2017-05-23 13:13:31 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-23
+2017-05-23 13:13:32 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-23_New folder 1.zip
+2017-05-23 13:13:33 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-23_New folder 1.zip
+2017-05-23 13:13:33 La carpeta de origen esta vacia C:\tmp\sources\New folder 2
+2017-05-23 13:13:35 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 3
+2017-05-23 13:13:35 No existe la carpeta de destino C:\tmp\target
+2017-05-23 13:13:35 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-23
+2017-05-23 13:13:36 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-23_New folder 3.zip
+2017-05-23 13:13:37 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-23_New folder 3.zip
+2017-05-23 13:13:37 La carpeta de origen esta vacia C:\tmp\sources\New folder 4
+2017-05-23 13:13:39 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 5
+2017-05-23 13:13:39 No existe la carpeta de destino C:\tmp\target
+2017-05-23 13:13:39 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-23
+2017-05-23 13:13:40 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-23_New folder 5.zip
+2017-05-23 13:13:41 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-23_New folder 5.zip
+2017-05-23 13:13:41 Hubo errores durante la copia de seguridad.
+2017-05-23 13:13:41 ----------------------------------- Fin del proceso -----------------------------------
+2017-05-24 09:27:12 ----------------------------------- Inicio del proceso -----------------------------------
+2017-05-24 09:27:14 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 1
+2017-05-24 09:27:14 No existe la carpeta de destino C:\tmp\target
+2017-05-24 09:27:14 Se creo correctamente la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 09:27:15 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 09:27:16 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 09:27:16 La carpeta de origen esta vacia C:\tmp\sources\New folder 2
+2017-05-24 09:27:18 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 3
+2017-05-24 09:27:18 No existe la carpeta de destino C:\tmp\target
+2017-05-24 09:27:18 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 09:27:19 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 09:27:20 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 09:27:20 La carpeta de origen esta vacia C:\tmp\sources\New folder 4
+2017-05-24 09:27:22 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 5
+2017-05-24 09:27:22 No existe la carpeta de destino C:\tmp\target
+2017-05-24 09:27:22 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 09:27:23 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 09:27:24 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 09:27:24 Hubo errores durante la copia de seguridad.
+2017-05-24 09:27:24 ----------------------------------- Fin del proceso -----------------------------------
+2017-05-24 09:33:51 ----------------------------------- Inicio del proceso -----------------------------------
+2017-05-24 09:33:53 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 1
+2017-05-24 09:33:53 No existe la carpeta de destino C:\tmp\target
+2017-05-24 09:33:53 Se creo correctamente la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 09:33:54 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 09:33:55 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 09:33:55 La carpeta de origen esta vacia C:\tmp\sources\New folder 2
+2017-05-24 09:33:57 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 3
+2017-05-24 09:33:57 No existe la carpeta de destino C:\tmp\target
+2017-05-24 09:33:57 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 09:33:58 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 09:33:59 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 09:33:59 La carpeta de origen esta vacia C:\tmp\sources\New folder 4
+2017-05-24 09:34:01 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 5
+2017-05-24 09:34:01 No existe la carpeta de destino C:\tmp\target
+2017-05-24 09:34:01 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 09:34:02 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 09:34:03 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 09:34:03 Hubo errores durante la copia de seguridad.
+2017-05-24 09:34:03 ----------------------------------- Fin del proceso -----------------------------------
+2017-05-24 09:35:57 ----------------------------------- Inicio del proceso -----------------------------------
+2017-05-24 09:35:59 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 1
+2017-05-24 09:35:59 No existe la carpeta de destino C:\tmp\target
+2017-05-24 09:35:59 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 09:36:00 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 09:36:01 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 09:36:01 La carpeta de origen esta vacia C:\tmp\sources\New folder 2
+2017-05-24 09:36:03 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 3
+2017-05-24 09:36:03 No existe la carpeta de destino C:\tmp\target
+2017-05-24 09:36:04 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 09:36:07 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 09:36:08 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 09:36:08 La carpeta de origen esta vacia C:\tmp\sources\New folder 4
+2017-05-24 09:36:10 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 5
+2017-05-24 09:36:10 No existe la carpeta de destino C:\tmp\target
+2017-05-24 09:36:10 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 09:36:11 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 09:36:12 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 09:36:12 Hubo errores durante la copia de seguridad.
+2017-05-24 09:36:12 ----------------------------------- Fin del proceso -----------------------------------
+2017-05-24 09:38:51 ----------------------------------- Inicio del proceso -----------------------------------
+2017-05-24 09:38:53 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 1
+2017-05-24 09:38:53 No existe la carpeta de destino C:\tmp\target
+2017-05-24 09:38:53 Se creo correctamente la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 09:38:54 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 09:38:55 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 09:38:55 La carpeta de origen esta vacia C:\tmp\sources\New folder 2
+2017-05-24 09:38:57 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 3
+2017-05-24 09:38:57 No existe la carpeta de destino C:\tmp\target
+2017-05-24 09:38:57 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 09:38:58 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 09:38:59 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 09:38:59 La carpeta de origen esta vacia C:\tmp\sources\New folder 4
+2017-05-24 09:39:01 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 5
+2017-05-24 09:39:01 No existe la carpeta de destino C:\tmp\target
+2017-05-24 09:39:01 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 09:39:02 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 09:39:03 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 09:39:03 Hubo errores durante la copia de seguridad.
+2017-05-24 09:39:03 ----------------------------------- Fin del proceso -----------------------------------
+2017-05-24 09:40:32 ----------------------------------- Inicio del proceso -----------------------------------
+2017-05-24 09:40:34 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 1
+2017-05-24 09:40:34 No existe la carpeta de destino C:\tmp\target
+2017-05-24 09:40:34 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 09:40:35 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 09:40:36 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 09:40:36 La carpeta de origen esta vacia C:\tmp\sources\New folder 2
+2017-05-24 09:40:38 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 3
+2017-05-24 09:40:38 No existe la carpeta de destino C:\tmp\target
+2017-05-24 09:40:38 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 09:40:39 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 09:40:40 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 09:40:40 La carpeta de origen esta vacia C:\tmp\sources\New folder 4
+2017-05-24 09:40:42 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 5
+2017-05-24 09:40:43 No existe la carpeta de destino C:\tmp\target
+2017-05-24 09:40:43 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 09:40:44 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 09:40:45 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 09:40:45 Hubo errores durante la copia de seguridad.
+2017-05-24 09:40:45 ----------------------------------- Fin del proceso -----------------------------------
+2017-05-24 10:02:10 ----------------------------------- Inicio del proceso -----------------------------------
+2017-05-24 10:02:12 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 1
+2017-05-24 10:02:12 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:02:12 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:02:13 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:02:14 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:02:14 La carpeta de origen esta vacia C:\tmp\sources\New folder 2
+2017-05-24 10:02:16 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 3
+2017-05-24 10:02:16 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:02:16 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:02:17 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:02:18 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:02:18 La carpeta de origen esta vacia C:\tmp\sources\New folder 4
+2017-05-24 10:02:20 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 5
+2017-05-24 10:02:20 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:02:20 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:02:21 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:02:22 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:02:22 Hubo errores durante la copia de seguridad.
+2017-05-24 10:02:22 ----------------------------------- Fin del proceso -----------------------------------
+2017-05-24 10:04:12 ----------------------------------- Inicio del proceso -----------------------------------
+2017-05-24 10:04:14 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 1
+2017-05-24 10:04:14 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:04:14 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:04:15 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:04:16 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:04:16 La carpeta de origen esta vacia C:\tmp\sources\New folder 2
+2017-05-24 10:04:18 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 3
+2017-05-24 10:04:18 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:04:18 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:04:19 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:04:20 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:04:20 La carpeta de origen esta vacia C:\tmp\sources\New folder 4
+2017-05-24 10:04:22 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 5
+2017-05-24 10:04:22 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:04:22 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:04:23 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:04:24 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:04:24 Hubo errores durante la copia de seguridad.
+2017-05-24 10:04:24 ----------------------------------- Fin del proceso -----------------------------------
+2017-05-24 10:05:20 ----------------------------------- Inicio del proceso -----------------------------------
+2017-05-24 10:05:22 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 1
+2017-05-24 10:05:22 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:05:22 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:05:23 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:05:24 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:05:24 La carpeta de origen esta vacia C:\tmp\sources\New folder 2
+2017-05-24 10:05:26 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 3
+2017-05-24 10:05:26 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:05:26 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:05:27 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:05:28 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:05:28 La carpeta de origen esta vacia C:\tmp\sources\New folder 4
+2017-05-24 10:05:30 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 5
+2017-05-24 10:05:30 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:05:30 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:05:31 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:05:32 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:05:32 Hubo errores durante la copia de seguridad.
+2017-05-24 10:05:32 ----------------------------------- Fin del proceso -----------------------------------
+2017-05-24 10:07:04 ----------------------------------- Inicio del proceso -----------------------------------
+2017-05-24 10:07:06 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 1
+2017-05-24 10:07:06 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:07:06 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:07:07 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:07:08 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:07:08 La carpeta de origen esta vacia C:\tmp\sources\New folder 2
+2017-05-24 10:07:10 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 3
+2017-05-24 10:07:10 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:07:10 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:07:11 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:07:12 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:07:12 La carpeta de origen esta vacia C:\tmp\sources\New folder 4
+2017-05-24 10:07:14 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 5
+2017-05-24 10:07:14 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:07:14 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:07:15 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:07:17 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:07:17 Hubo errores durante la copia de seguridad.
+2017-05-24 10:07:17 ----------------------------------- Fin del proceso -----------------------------------
+2017-05-24 10:20:21 ----------------------------------- Inicio del proceso -----------------------------------
+2017-05-24 10:20:23 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 1
+2017-05-24 10:20:23 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:20:23 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:20:24 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:20:25 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:20:25 La carpeta de origen esta vacia C:\tmp\sources\New folder 2
+2017-05-24 10:20:27 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 3
+2017-05-24 10:20:27 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:20:27 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:20:28 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:20:29 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:20:29 La carpeta de origen esta vacia C:\tmp\sources\New folder 4
+2017-05-24 10:20:31 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 5
+2017-05-24 10:20:31 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:20:31 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:20:32 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:20:33 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:20:33 Hubo errores durante la copia de seguridad.
+2017-05-24 10:20:33 ----------------------------------- Fin del proceso -----------------------------------
+2017-05-24 10:22:24 ----------------------------------- Inicio del proceso -----------------------------------
+2017-05-24 10:22:26 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 1
+2017-05-24 10:22:26 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:22:26 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:22:28 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:22:29 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:22:29 La carpeta de origen esta vacia C:\tmp\sources\New folder 2
+2017-05-24 10:22:31 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 3
+2017-05-24 10:22:31 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:22:31 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:22:32 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:22:33 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:22:33 La carpeta de origen esta vacia C:\tmp\sources\New folder 4
+2017-05-24 10:22:35 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 5
+2017-05-24 10:22:35 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:22:35 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:22:36 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:22:37 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:22:37 Hubo errores durante la copia de seguridad.
+2017-05-24 10:22:37 ----------------------------------- Fin del proceso -----------------------------------
+2017-05-24 10:23:30 ----------------------------------- Inicio del proceso -----------------------------------
+2017-05-24 10:23:32 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 1
+2017-05-24 10:23:32 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:23:32 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:23:33 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:23:34 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:23:34 La carpeta de origen esta vacia C:\tmp\sources\New folder 2
+2017-05-24 10:23:39 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 3
+2017-05-24 10:23:39 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:23:39 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:23:40 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:23:41 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:23:41 La carpeta de origen esta vacia C:\tmp\sources\New folder 4
+2017-05-24 10:23:43 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 5
+2017-05-24 10:23:43 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:23:43 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:23:44 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:23:45 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:23:45 Hubo errores durante la copia de seguridad.
+2017-05-24 10:23:45 ----------------------------------- Fin del proceso -----------------------------------
+2017-05-24 10:25:37 ----------------------------------- Inicio del proceso -----------------------------------
+2017-05-24 10:25:39 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 1
+2017-05-24 10:25:39 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:25:39 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:25:40 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:25:41 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:25:41 La carpeta de origen esta vacia C:\tmp\sources\New folder 2
+2017-05-24 10:25:43 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 3
+2017-05-24 10:25:43 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:25:43 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:25:44 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:25:45 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:25:45 La carpeta de origen esta vacia C:\tmp\sources\New folder 4
+2017-05-24 10:25:47 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 5
+2017-05-24 10:25:47 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:25:47 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:25:49 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:25:50 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:25:50 Hubo errores durante la copia de seguridad.
+2017-05-24 10:25:50 ----------------------------------- Fin del proceso -----------------------------------
+2017-05-24 10:34:01 ----------------------------------- Inicio del proceso -----------------------------------
+2017-05-24 10:34:03 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 1
+2017-05-24 10:34:03 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:34:03 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:34:04 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:34:05 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:34:05 La carpeta de origen esta vacia C:\tmp\sources\New folder 2
+2017-05-24 10:34:07 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 3
+2017-05-24 10:34:07 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:34:07 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:34:08 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:34:09 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:34:09 La carpeta de origen esta vacia C:\tmp\sources\New folder 4
+2017-05-24 10:34:11 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 5
+2017-05-24 10:34:11 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:34:11 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:34:12 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:34:13 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:34:13 Hubo errores durante la copia de seguridad.
+2017-05-24 10:34:13 ----------------------------------- Fin del proceso -----------------------------------
+2017-05-24 10:34:22 ----------------------------------- Inicio del proceso -----------------------------------
+2017-05-24 10:34:24 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 1
+2017-05-24 10:34:24 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:34:24 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:34:25 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:34:26 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:34:26 La carpeta de origen esta vacia C:\tmp\sources\New folder 2
+2017-05-24 10:34:28 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 3
+2017-05-24 10:34:28 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:34:28 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:34:29 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:34:30 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:34:30 La carpeta de origen esta vacia C:\tmp\sources\New folder 4
+2017-05-24 10:34:32 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 5
+2017-05-24 10:34:32 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:34:32 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:34:33 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:34:34 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:34:34 Hubo errores durante la copia de seguridad.
+2017-05-24 10:34:34 ----------------------------------- Fin del proceso -----------------------------------
+2017-05-24 10:35:32 ----------------------------------- Inicio del proceso -----------------------------------
+2017-05-24 10:35:34 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 1
+2017-05-24 10:35:34 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:35:34 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:35:35 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:35:36 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:35:36 La carpeta de origen esta vacia C:\tmp\sources\New folder 2
+2017-05-24 10:35:38 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 3
+2017-05-24 10:35:38 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:35:38 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:35:39 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:35:40 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:35:40 La carpeta de origen esta vacia C:\tmp\sources\New folder 4
+2017-05-24 10:35:42 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 5
+2017-05-24 10:35:42 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:35:42 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:35:43 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:35:44 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:35:44 Hubo errores durante la copia de seguridad.
+2017-05-24 10:35:44 ----------------------------------- Fin del proceso -----------------------------------
+2017-05-24 10:36:13 ----------------------------------- Inicio del proceso -----------------------------------
+2017-05-24 10:36:15 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 1
+2017-05-24 10:36:15 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:36:15 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:36:16 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:36:17 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:36:17 La carpeta de origen esta vacia C:\tmp\sources\New folder 2
+2017-05-24 10:36:19 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 3
+2017-05-24 10:36:19 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:36:19 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:36:20 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:36:21 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:36:21 La carpeta de origen esta vacia C:\tmp\sources\New folder 4
+2017-05-24 10:36:23 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 5
+2017-05-24 10:36:23 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:36:23 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:36:24 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:36:25 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:36:25 Hubo errores durante la copia de seguridad.
+2017-05-24 10:36:25 ----------------------------------- Fin del proceso -----------------------------------
+2017-05-24 10:36:51 ----------------------------------- Inicio del proceso -----------------------------------
+2017-05-24 10:36:53 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 1
+2017-05-24 10:36:53 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:36:53 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:36:54 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:36:55 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:36:55 La carpeta de origen esta vacia C:\tmp\sources\New folder 2
+2017-05-24 10:36:57 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 3
+2017-05-24 10:36:57 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:36:57 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:36:58 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:36:59 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:36:59 La carpeta de origen esta vacia C:\tmp\sources\New folder 4
+2017-05-24 10:37:01 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 5
+2017-05-24 10:37:01 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:37:01 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:37:02 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:37:03 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:37:03 Hubo errores durante la copia de seguridad.
+2017-05-24 10:37:03 ----------------------------------- Fin del proceso -----------------------------------
+2017-05-24 10:37:16 ----------------------------------- Inicio del proceso -----------------------------------
+2017-05-24 10:37:18 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 1
+2017-05-24 10:37:18 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:37:18 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:37:19 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:37:20 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:37:20 La carpeta de origen esta vacia C:\tmp\sources\New folder 2
+2017-05-24 10:37:24 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 3
+2017-05-24 10:37:24 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:37:24 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:37:25 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:37:26 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:37:26 La carpeta de origen esta vacia C:\tmp\sources\New folder 4
+2017-05-24 10:37:28 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 5
+2017-05-24 10:37:28 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:37:28 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:37:29 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:37:30 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:37:30 Hubo errores durante la copia de seguridad.
+2017-05-24 10:37:30 ----------------------------------- Fin del proceso -----------------------------------
+2017-05-24 10:38:54 ----------------------------------- Inicio del proceso -----------------------------------
+2017-05-24 10:38:56 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 1
+2017-05-24 10:38:56 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:38:56 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:38:56 No se pudo copiar el comprimido a la carpeta destino \\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:38:56 La carpeta de origen esta vacia C:\tmp\sources\New folder 2
+2017-05-24 10:38:59 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 3
+2017-05-24 10:38:59 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:38:59 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:38:59 No se pudo copiar el comprimido a la carpeta destino \\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:38:59 La carpeta de origen esta vacia C:\tmp\sources\New folder 4
+2017-05-24 10:39:01 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 5
+2017-05-24 10:39:01 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:39:01 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:39:01 No se pudo copiar el comprimido a la carpeta destino \\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:39:01 Hubo errores durante la copia de seguridad.
+2017-05-24 10:39:01 ----------------------------------- Fin del proceso -----------------------------------
+2017-05-24 10:39:35 ----------------------------------- Inicio del proceso -----------------------------------
+2017-05-24 10:39:37 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 1
+2017-05-24 10:39:37 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:39:37 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:39:37 No se pudo copiar el comprimido a la carpeta destino \\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:39:37 La carpeta de origen esta vacia C:\tmp\sources\New folder 2
+2017-05-24 10:39:39 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 3
+2017-05-24 10:39:39 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:39:39 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:39:39 No se pudo copiar el comprimido a la carpeta destino \\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:39:39 La carpeta de origen esta vacia C:\tmp\sources\New folder 4
+2017-05-24 10:39:41 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 5
+2017-05-24 10:39:41 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:39:41 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:39:41 No se pudo copiar el comprimido a la carpeta destino \\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:39:41 Hubo errores durante la copia de seguridad.
+2017-05-24 10:39:41 ----------------------------------- Fin del proceso -----------------------------------
+2017-05-24 10:40:12 ----------------------------------- Inicio del proceso -----------------------------------
+2017-05-24 10:40:13 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 1
+2017-05-24 10:40:13 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:40:13 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:40:14 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:40:15 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:40:15 La carpeta de origen esta vacia C:\tmp\sources\New folder 2
+2017-05-24 10:40:16 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 3
+2017-05-24 10:40:16 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:40:16 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:40:17 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:40:18 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:40:18 La carpeta de origen esta vacia C:\tmp\sources\New folder 4
+2017-05-24 10:40:19 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 5
+2017-05-24 10:40:19 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:40:19 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:40:20 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:40:21 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:40:21 Hubo errores durante la copia de seguridad.
+2017-05-24 10:40:21 ----------------------------------- Fin del proceso -----------------------------------
+2017-05-24 10:40:49 ----------------------------------- Inicio del proceso -----------------------------------
+2017-05-24 10:40:51 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 1
+2017-05-24 10:40:51 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:40:51 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:40:52 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:40:53 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:40:53 La carpeta de origen esta vacia C:\tmp\sources\New folder 2
+2017-05-24 10:40:56 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 3
+2017-05-24 10:40:56 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:40:56 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:40:57 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:40:58 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:40:58 La carpeta de origen esta vacia C:\tmp\sources\New folder 4
+2017-05-24 10:41:00 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 5
+2017-05-24 10:41:00 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:41:00 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:41:01 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:41:02 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:41:02 Hubo errores durante la copia de seguridad.
+2017-05-24 10:41:02 ----------------------------------- Fin del proceso -----------------------------------
+2017-05-24 10:56:36 ----------------------------------- Inicio del proceso -----------------------------------
+2017-05-24 10:56:38 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 1
+2017-05-24 10:56:38 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:56:38 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:56:39 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:56:40 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 1.zip
+2017-05-24 10:56:40 La carpeta de origen esta vacia C:\tmp\sources\New folder 2
+2017-05-24 10:56:42 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 3
+2017-05-24 10:56:42 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:56:42 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:56:43 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:56:44 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 3.zip
+2017-05-24 10:56:44 La carpeta de origen esta vacia C:\tmp\sources\New folder 4
+2017-05-24 10:56:46 Se comprimio correctamente la carpeta C:\tmp\sources\New folder 5
+2017-05-24 10:56:46 No existe la carpeta de destino C:\tmp\target
+2017-05-24 10:56:46 Ya existe la carpeta fecha destino\\C-OMATIZ1\_Shared\NetTarget\2017-05-24
+2017-05-24 10:56:47 Se realizo la copia del comprimido correctamente C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:56:48 Se elimina correctamente el comprimido local temporal C:\Users\omatiz.EPM\AppData\Local\Temp\2017-05-24_New folder 5.zip
+2017-05-24 10:56:48 Hubo errores durante la copia de seguridad.
+2017-05-24 10:56:48 ----------------------------------- Fin del proceso -----------------------------------

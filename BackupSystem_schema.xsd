@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema xmlns:x0="http://www.backupsystem.com" attributeFormDefault="unqualified" elementFormDefault="unqualified" targetNamespace="http://www.backupsystem.com" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="configuration">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="pcSettings">
+                    <xs:complexType>
+                        <xs:attribute name="shutdown" type="xs:boolean" use="required" />
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="emailSettings">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="from" type="xs:string" />
+                            <xs:element name="to" type="xs:string" />
+                            <xs:element name="cc" type="xs:string" />
+                            <xs:element name="subject" type="xs:string" />
+                            <xs:element name="smtpSettings">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="smtpServer" type="xs:string" />
+                                        <xs:element name="smptPort" type="xs:string" />
+                                        <xs:element name="smtpUser" type="xs:string" />
+                                        <xs:element name="smtpPassword" type="xs:string" />
+                                    </xs:sequence>
+                                    <xs:attribute name="authentication" type="xs:boolean" use="required" />
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="sendMail" type="xs:boolean" use="required" />
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="appSettings">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="targetFolders">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="targetFolder" type="xs:string" maxOccurs="unbounded" />
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="sourceFolders">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="sourceFolder" type="xs:string" maxOccurs="unbounded" />
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="resourceMessages">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="resourceMessage">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="message" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:simpleContent>
+                                        <xs:extension base="xs:string">
+                                            <xs:attribute name="code" type="xs:string" use="required" />
+                                        </xs:extension>
+                                    </xs:simpleContent>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
