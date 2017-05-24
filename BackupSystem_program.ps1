@@ -259,7 +259,7 @@ function Main(){
     
     CreateTraceLog ($div  + ' Fin del proceso ' + $div)
 	 
-	#Enviar por correo esta informacion del proceso
+	#Enviar por correo esta informacion del proceso y apagar el equipo
 	Write-Host "`r`nContenido del correo"
 	$Script:failProcessMessages | Sort-Object Code | Select -Property Code, Message, Details -Unique | Format-Table -AutoSize
 	
